@@ -1,0 +1,8 @@
+aiogram==2.9.2
+dlib==19.21.0
+lxml==4.3.3
+scikit-image==0.17.2
+nmslib==2.0.6
+numpy==1.16.3
+requests==2.22.0
+vk-api==11.8.0
